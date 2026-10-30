@@ -1,6 +1,6 @@
 import React from 'react'
 import { stats } from '../constants'
-import styles from '../Style'
+import styles from '../style'
 
 const Stats = () => (
 
